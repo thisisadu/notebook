@@ -2,6 +2,8 @@
 
 - [xv6](./xv6/main.md)
 	- [sub1](./xv6/sub1.md)
+		- [sub1-1](./xv6/sub1.md)
+		- [sub1-2](./xv6/sub1.md)
 	- [sub2](./xv6/sub2.md)
 - [linux](./linux/main.md)
 	- [sub1](./linux/sub1.md)
