@@ -1,7 +1,7 @@
 # Summary
 
 - [xv6](./xv6/main.md)
-	- [sub1](./xv6/sub1.md)
+	- [启动](./xv6/boot.md)
 		- [sub1-1](./xv6/sub1.md)
 		- [sub1-2](./xv6/sub1.md)
 	- [sub2](./xv6/sub2.md)
