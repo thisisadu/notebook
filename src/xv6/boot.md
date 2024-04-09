@@ -1,4 +1,4 @@
-# xv6
+# Xv6启动流程
 
 1. _entry @ kernel/entry.S
 
