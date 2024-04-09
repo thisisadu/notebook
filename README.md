@@ -1,2 +1,2 @@
 # notebook
-note everything
+https://thisisadu.github.io/notebook/
